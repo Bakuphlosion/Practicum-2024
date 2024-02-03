@@ -1,0 +1,5 @@
+2023/05/12-21:03:14.009 5900 Reusing MANIFEST C:/Users/bakup/OneDrive/Documents/Unreal Projects/PracticumRPG/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/12-21:12:16.302 84c4 Level-0 table #5: started
+2023/05/12-21:12:16.311 84c4 Level-0 table #5: 1165 bytes OK
+2023/05/12-21:12:16.312 84c4 Delete type=0 #3
+2023/05/12-21:12:16.313 84c4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
