@@ -157,7 +157,19 @@
 				"C:/Users/bakup/GitHub Projects/Practicum-2024/Content/RPInstance.uasset",
 				"C:/Users/bakup/GitHub Projects/Practicum-2024/Content/Sounds/TitleTheme.uasset",
 				"C:/Users/bakup/GitHub Projects/Practicum-2024/Content/Sounds/TitleTheme_Cue.uasset",
-				"C:/Users/bakup/GitHub Projects/Practicum-2024/Content/Levels/MainMenu.umap"
+				"C:/Users/bakup/GitHub Projects/Practicum-2024/Content/Levels/MainMenu.umap",
+				"C:/Users/bakup/GitHub Projects/Practicum-2024/Content/Blueprints/Items/ItemType.uasset",
+				"C:/Users/bakup/GitHub Projects/Practicum-2024/Content/Blueprints/UseFuntion_Master.uasset",
+				"C:/Users/bakup/GitHub Projects/Practicum-2024/Content/Blueprints/Items/UseFuntion_Master.uasset",
+				"C:/Users/bakup/GitHub Projects/Practicum-2024/Content/Blueprints/Items/BP_PickUp_Master.uasset",
+				"C:/Users/bakup/GitHub Projects/Practicum-2024/Content/Blueprints/Items/W_Inventory.uasset",
+				"C:/Users/bakup/GitHub Projects/Practicum-2024/Content/Blueprints/Items/Potion/BP_Potion.uasset",
+				"C:/Users/bakup/GitHub Projects/Practicum-2024/Content/Blueprints/Items/Potion/UF_Potion.uasset",
+				"C:/Users/bakup/GitHub Projects/Practicum-2024/Content/Levels/FightChamber.umap",
+				"C:/Users/bakup/GitHub Projects/Practicum-2024/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/bakup/GitHub Projects/Practicum-2024/Content/UserInterface/W_PauseScreen.uasset",
+				"C:/Users/bakup/GitHub Projects/Practicum-2024/Content/Blueprints/Items/ClassStruct.uasset",
+				"C:/Users/bakup/GitHub Projects/Practicum-2024/Content/Blueprints/Items/W_ItemSlot.uasset"
 			]
 		}
 	]
