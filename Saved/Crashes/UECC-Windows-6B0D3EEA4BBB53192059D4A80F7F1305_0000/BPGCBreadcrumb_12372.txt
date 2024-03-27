@@ -1,0 +1,2 @@
+/Game/Levels/OldMinigame/TestLevel.TestLevel:PersistentLevel.BP_ShieldSoda_C_1
+/Game/Blueprints/Items/BP_PickUp_Master.BP_PickUp_Master_C

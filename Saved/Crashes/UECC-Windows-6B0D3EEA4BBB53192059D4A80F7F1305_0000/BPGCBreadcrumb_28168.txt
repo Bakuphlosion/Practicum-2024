@@ -1,0 +1,2 @@
+/Engine/Transient.World_5:PersistentLevel.BP_PickUp_Master_C_0
+/Game/Blueprints/Items/BP_PickUp_Master.BP_PickUp_Master_C

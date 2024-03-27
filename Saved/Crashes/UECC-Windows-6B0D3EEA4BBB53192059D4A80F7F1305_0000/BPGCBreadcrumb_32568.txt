@@ -1,0 +1,2 @@
+/Game/Blueprints/Items/BP_PickUp_Master.Default__BP_PickUp_Master_C
+/Game/Blueprints/Items/BP_PickUp_Master.BP_PickUp_Master_C
